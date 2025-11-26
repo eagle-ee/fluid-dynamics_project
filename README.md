@@ -1,3 +1,3 @@
-##Fluid Dynamics Simulation
+# Fluid Dynamics Simulation
 
 Visual Studio .sln included
